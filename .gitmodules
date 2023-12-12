@@ -1,0 +1,12 @@
+[submodule "Config-Server"]
+	path = Config-Server
+	url = https://github.com/daotrongthuan1010/Config-Server.git
+[submodule "Product-Service"]
+    path = Product-Service
+    url = https://github.com/daotrongthuan1010/Product-Service.git
+[submodule "Order-Service"]
+	path = Order-Service
+	url = https://github.com/daotrongthuan1010/Order-Service.git
+[submodule "service-registry"]
+	path = service-registry
+	url = https://github.com/daotrongthuan1010/service-registry
