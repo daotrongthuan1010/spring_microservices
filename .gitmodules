@@ -9,4 +9,4 @@
 	url = https://github.com/daotrongthuan1010/Order-Service.git
 [submodule "service-registry"]
 	path = service-registry
-	url = https://github.com/daotrongthuan1010/service-registry
+	url = https://github.com/daotrongthuan1010/service-registry.git
